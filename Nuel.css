@@ -1,0 +1,26 @@
+.italics{
+    border:blueviolet;
+    border-width: 50px;
+    border-style: dotted;
+    border-radius: 50px;
+    justify-content: center;
+    color:fuchsia;
+    font-size: 40px;
+    font-style: italic;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+.loading {
+    height: 20px;
+    background-color: rgb(167, 159, 159);
+}
+
+.child{
+    background-color: rgb(27, 255, 244);
+    width: 10%;
+    height: 20px;
+
+}
